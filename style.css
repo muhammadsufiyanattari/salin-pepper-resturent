@@ -1,0 +1,400 @@
+.header {
+    width: 100%;
+    padding: 10px 100px;
+    background-color: black;
+}
+
+
+.logo img {
+    width: 165px;
+}
+
+body {
+    margin: 0%;
+}
+
+.menu li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.logo,
+.right-side,
+.btn {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    margin-right: 20px;
+    text-transform: capitalize;
+    color: white
+}
+
+.right-side {
+    background-color: ;
+    width: 60%;
+}
+
+.logo {
+    width: 20%;
+}
+
+.btn button {
+    border: none;
+    padding: 10px;
+    border-radius: 35px;
+}
+
+.btn1 {
+    background-color: transparent;
+    color: white;
+    border: 1px solid white !important;
+    border-radius: 35px;
+    padding: 10px 10px;
+}
+
+.btn2 {
+    background-color: #ed1c24;
+
+    border: 1px solid #ed1c24 !important;
+    color: white;
+}
+
+.menu {
+    display: inline-block;
+}
+
+.btn {
+    display: inline-block;
+}
+
+.right-side {
+    vertical-align: baseline;
+    background-color: ;
+    text-align: right;
+}
+
+.logo {
+    vertical-align: middle;
+    padding: 5px 30px;
+}
+
+.btn2>i {
+    background-color: white;
+    color: red;
+    margin: 2px;
+
+    border-radius: 100%;
+}
+
+@font-face {
+    font-family: pal;
+    src: url(./futurak.ttf);
+}
+
+span {
+    font-family: pal;
+    letter-spacing: 5px;
+    font-size: 60px;
+
+}
+
+.intro {
+    width: 100%;
+
+    height: 500px;
+    background-color: black;
+
+}
+
+.slide {
+    width: 100%;
+    height: 500px;
+}
+
+.intro .contant h2 {
+    margin: 0px;
+    font-size: 40px;
+    color: white;
+}
+
+.intro p {
+    color: darkgray;
+}
+
+.slide img {
+    width: 100%;
+    height: 500px;
+}
+
+.contant {
+    padding: 20px;
+    text-align: center;
+}
+
+.card .card-logo {
+    text-align: center;
+    width: 250px;
+    padding: 30px 10px;
+
+
+    background-color: white;
+
+}
+
+.card-logo>img {
+    width: 70%;
+}
+
+.cardbtn button {
+    background-color: transparent;
+    border-color: #fff;
+    padding: 15px 50px;
+    border-radius: 35px;
+    color: #fff;
+    border: 1px solid rgba(255, 255, 255, 0.7 !important);
+
+
+}
+
+.cardbtn {
+    width: 250px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.card {
+    margin: 0px 20px;
+    display: inline-block;
+}
+
+.card-container {
+    text-align: center;
+}
+
+.body {
+    margin: 0%;
+    background-color: rgba(0, 0, 0, 0.934);
+}
+
+.bodyheading h2,
+p {
+    margin: 0%;
+    text-align: center;
+
+    color: #fff;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    color: darkgray;
+}
+
+h4 {
+    color: #ed1c24;
+}
+
+h3 {
+    color: #fff;
+
+    font-size: 40px;
+}
+
+h5 {
+    color: grey;
+    font-size: 20px;
+}
+
+.directionbtn button {
+    background-color: red;
+    border-color: #fff;
+    padding: 15px 50px;
+    border-radius: 35px;
+    color: #fff;
+    border: 1px solid rgba(255, 255, 255, 0.7 !important);
+}
+
+.directionbtn button i {
+    background-color: white;
+    color: red;
+    margin: 5px;
+
+    border-radius: 100%;
+}
+
+.addimg,
+.address {
+    display: inline-block;
+    padding: 0px 40px;
+}
+
+.addimg1,
+.address2 {
+    padding: 10px 40px;
+    display: inline-block;
+}
+
+.middelbody {
+    background-color: black;
+}
+
+.h1 {
+    color: #fff;
+    font-size: 50px;
+}
+
+span {
+    color: #fff;
+}
+
+.middelhead {
+    text-align: center;
+}
+
+.middelbody>.middelhead h1 {
+
+    margin: 0%;
+}
+
+.mdimg img {
+    width: 300px;
+}
+
+small {
+    color: #ed1c24;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+
+}
+
+h3,
+.mdspan {
+    font-size: 30px;
+}
+
+.mdp {
+    text-align: left;
+}
+
+.md1,
+.md2,
+.md3 {
+    padding: 20px 50px;
+    display: inline-block
+}
+
+.baba {
+    display: inline-block;
+}
+
+.mdbtn {
+    color: #fff;
+    padding: 15px 30px;
+    margin-top: 10px;
+    background-color: transparent;
+    border-radius: 30px;
+}
+
+.mdbtn i { background-color: #fff;color: red; margin: 5px ;border-radius: 35px;
+   padding: 5px;
+
+}
+.Village-Franchise{
+    background-color: rgba(0, 0, 0, 0.934);
+}
+.Village-Franchise .fhead h1{
+    margin: 0%;
+}
+.fhead{
+    text-align: center;
+}
+.fimg,.faddress{
+    display: inline-block;
+}
+.fimg img{
+    width: 600px;padding: 10px 15px;
+}
+.fh3,.fspan{font-size: 40px;}
+.directionbtn .fbtn{
+    background-color: #28a745;
+}
+.directionbtn .fbtn i{
+    background-color: white;color: #28a745;
+}
+.openining-soon{
+  background-color: black;
+  
+}
+.cardl{background-color:white;padding: 20px;margin:10px 50px;
+    width: 300px;text-align: center;display: inline-block;
+}
+.cardl img{
+  padding-top: 15px;
+}
+.cardl p{font-size:small;
+    letter-spacing: 1px;padding-top: 5px;
+    color: #ed1c24;
+}
+.cardl h4{color: black;word-spacing: 2px;
+    font-size: 20px;
+
+}
+.la{
+   color: black;font-size: 25px;
+}
+.social-feed{background-color: black;}
+
+.sh h2{color: white; text-align: center;
+padding: 30px;
+}
+.social-feed .sh h2{
+    margin: 0px;
+}
+.limg img{padding: 0px 10px;
+    width: 250px;margin: 50px 0px;
+}
+.footer{
+    background-color: black;margin: 0%;
+}
+.ft{padding-left: 50px;;
+    width: 300px;display: inline-block;
+}
+.ft p{ text-align: justify;}
+
+
+.flink{display: inline-block;padding-left: 80px;
+    
+}
+.flist{
+    list-style: none;
+}
+.flist li{padding: 5px 0px;
+    color: grey;
+}
+
+
+
+.flist li h4{color: #fff;
+
+font-size: 20px;
+}
+
+
+.flist li i{
+    padding:10px;
+}
+hr{
+    color: rgb(53, 52, 52);
+}
+.footer-end{background-color: black;
+
+}
+.footer-end p{color: #fff;display: inline-block;
+    margin: 0% ;
+}
+.p2{padding-left:900px;}
+.p1{padding-left:30px;}
